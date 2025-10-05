@@ -2,10 +2,6 @@ Build systems, not shows
 
 ## About me
 
-**Core:** PHP • Go • SQL
-
-**Frameworks & Tools:** Symfony • Docker • GitLab CI/CD  
-
 **Focus areas:** API design • payment integrations • infrastructure automation
 
 **Principles:** keep things as simple as possible
