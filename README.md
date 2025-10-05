@@ -2,7 +2,7 @@ Build systems, not shows
 
 ## About me
 
-**Focus areas:** API design • payment integrations • infrastructure automation
+**Focus areas:** integrations • infrastructure automation • reliability
 
 **Principles:** keep things as simple as possible
 
